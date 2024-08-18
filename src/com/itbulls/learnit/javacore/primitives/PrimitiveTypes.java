@@ -13,9 +13,9 @@ public class PrimitiveTypes {
 		
 		boolean bool = true;
 		
-		float f = 1.2F;
+		float f = 1.2f;
 		
-		long l2 = 2_000_000_000_000L;
+		long l2 = 2_000_000_000_000l;
 		
 		double d = 1.3;
 		
